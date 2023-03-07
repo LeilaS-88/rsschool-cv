@@ -13,13 +13,14 @@ I am interested in web development. I want to know how is it work. I want to get
 - Git;
 - Visual Studio Code;
 ## Code
-```function compareNumbers(a,b) {
+```
+function compareNumbers(a,b) {
   if(a > b) {return 1};
   if(a == b) {return 0};
   if(a < b) {return -1};
 }
-```
-```function mergeArrays(arr1, arr2) {
+
+function mergeArrays(arr1, arr2) {
   let commonArr = [];
   commonArr = commonArr.concat(arr1, arr2);
   return Array.from(new Set(commonArr.sort(compareNumbers)));
