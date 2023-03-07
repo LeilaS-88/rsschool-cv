@@ -18,13 +18,14 @@ I am interested in web development. I want to know how is it work. I want to get
   if(a == b) {return 0};
   if(a < b) {return -1};
 }
-
-function mergeArrays(arr1, arr2) {
+```
+```function mergeArrays(arr1, arr2) {
   let commonArr = [];
   commonArr = commonArr.concat(arr1, arr2);
   return Array.from(new Set(commonArr.sort(compareNumbers)));
 }
 ```
+
 ## Experience
 - [Snakegame](https://github.com/LeilaS-88/Snake_game);
 - [2048 game](https://github.com/LeilaS-88/2048_project);
