@@ -5,7 +5,7 @@
 - email: larapasternak@yandex.ru;
 --------------------------------------------------------------------
 ## About me
-I am interested in web development. I want to know how is it work. I want to get knowledge to find a job. In GitHub you can see pet projects. I decided to change my profession. 
+I am interested in web development. I want to know how is it work. I want to get knowledge to find a job. In GitHub you can see pet projects. I decided to change my profession.
 ## Skills
 - HTML, CSS, Java Script;
 - Mark Down;
